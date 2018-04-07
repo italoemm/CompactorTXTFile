@@ -12,11 +12,11 @@ Also, the project can both compress and decompress.
 OBS: the code only works to Brazilian language, but you can change the array if you want..
 
 # How to use.
-<ul>
+<ol>
   <li> Download it</li>
   <li> import the project </li> 
   <li> Go to line 129 of class compactor and change the local name that you're going save the file compress.</l1>
   <li> Go to line 155 of class descompactar and change the local name that you're going save the file descompress.</l1>
   <li> Go to class Compactor, run, and choose file </li>
-</ul>
+</ol>
   
