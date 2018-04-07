@@ -1,11 +1,10 @@
-# CompactorTXTFile
+# CompressTxtFile
 
-A simple compactor of TXT File using Array and List
-
-this project was made in intent to practice my logic knowlegde and have fun with some arrays and lists. 
+A simple compress of TXT File using Array and List.
+this project was made in intent to practice my logic knowledge and have fun with some arrays and lists.
 
 # About Code.
-the code is going compare if the words that contain in file txt match with String inside a list and replace by a character ASCII,
+The code is going compare if the words that contain in file txt match with String inside a list and replace by a character ASCII,
 The project is going preserve all paragraph and formatation of a file.
 Also, the project can both compress and decompress.
 
